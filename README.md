@@ -13,3 +13,6 @@ Please watch the demo below which also provides an in-depth explanation for how 
 [![StoreFront Demo](http://img.youtube.com/vi/T1N5sZI_OZ4/0.jpg)](https://www.youtube.com/watch?v=T1N5sZI_OZ4)
 <br>
 https://www.youtube.com/watch?v=T1N5sZI_OZ4
+
+<br>
+Since this is the public version, the repo does not contain the settings json files for the Firebase project or for the cloudfunctions code.
